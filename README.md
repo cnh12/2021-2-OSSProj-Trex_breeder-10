@@ -6,6 +6,7 @@
 ![main](https://user-images.githubusercontent.com/90684277/144817751-9d877b9e-fbbd-47ff-8ed8-4873c2d86576.jpg)
 
 #### Chrome의 이스터에그 게임인 T-rex Rush에 다양한 모션과 공격 기능을 추가하여 즐거움을 더한 게임
+#### Chrome's Easter Egg game, T-rex Rush. We added a variety of motion and attack functions to add joy to the game.
 
 ## 주요 변경 사항
 - Intro Screen 디자인 변경 및 GUI 버그 수정
@@ -16,6 +17,16 @@
 - 플레이어의 hp bar에 grid 추가
 - 보스몬스터 목숨 가시화
 - 기능별 코드 구조화
+
+## Main Changes
+- Changed the Intro Screen design and fix the GUI bug.
+- Improved window size.
+- Added stages in hard mode.
+- Diversified Boss Monster by stage.
+- Added local cooperative multimode.
+- Added grid to the player's hp bar.
+- Made the life of Boss Monster visible.
+- Proceeded code structure according to each function.
 
 ## 프로그램 실행 시
 To run this game:
